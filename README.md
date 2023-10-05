@@ -1,9 +1,5 @@
 # Email Visualization
 ## Basic Information
-Demo link: https://emails.jianyang995.com/
-
-More explanations: https://www.jianyang995.com/projects/project/P4
-
 This is a Data Visualization project from [China Vis 2016 Challenge 2](http://chinavis.org/2016/challenge.html). 
 
 The task is to analyze emails from a company, including inner and outer ones. Here, three different aspects, employee, email and business are considered.
